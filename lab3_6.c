@@ -16,7 +16,7 @@ int main() {
     }
     else { 
         if( score >= 55 ) printf( "D\n" ) ;
-        else  printf( "D\n" ) ;
+        else  printf( "F\n" ) ;
     }
     
     return 0;
